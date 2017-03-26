@@ -1,0 +1,87 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Demo1", "Demo1", "{B5D8264F-0996-4828-8209-73DA66049910}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Demo2", "Demo2", "{31C4E5AD-B9AF-49C5-848D-75B958E40EDC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo2End", "Demo2End\Demo2End.csproj", "{708DC102-3B01-476B-90C5-0A45ADC7600F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo1End", "Demo1End\Demo1End.csproj", "{02784315-DDB4-4DDB-A534-26CC8A235315}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Demo3", "Demo3", "{25DC8366-64C9-4A9A-AF68-2F00024ADEC8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo3End", "Demo3End\Demo3End.csproj", "{250A3E22-6693-46C0-9009-C447E985BDB3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Swashbuckle.AspNetCore.Swagger", "..\..\GitHub\Swashbuckle.AspNetCore\src\Swashbuckle.AspNetCore.Swagger\Swashbuckle.AspNetCore.Swagger.csproj", "{87EA682B-31F6-4E70-85CC-4A1FA314C5C7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Swashbuckle.AspNetCore.SwaggerGen", "..\..\GitHub\Swashbuckle.AspNetCore\src\Swashbuckle.AspNetCore.SwaggerGen\Swashbuckle.AspNetCore.SwaggerGen.csproj", "{B164BBBD-8569-4435-B39C-0D914E41AB73}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Swashbuckle.AspNetCore.SwaggerUI", "..\..\GitHub\Swashbuckle.AspNetCore\src\Swashbuckle.AspNetCore.SwaggerUI\Swashbuckle.AspNetCore.SwaggerUI.csproj", "{00353A1F-CBD1-4422-BF86-57CDEDD1772F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Demo4", "Demo4", "{CC79C2C2-75CB-457C-839A-67EBB85A8EEB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo3Start", "Demo3Start\Demo3Start.csproj", "{D1B078F1-707A-4DD7-8F49-65AFA19CB52C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo4End", "Demo4End\Demo4End.csproj", "{037A768A-9ECB-4B59-B134-2890249B16AF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{56606667-5B62-4282-A41D-13FF1BE919CE}"
+	ProjectSection(SolutionItems) = preProject
+		ReadMe.md = ReadMe.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{708DC102-3B01-476B-90C5-0A45ADC7600F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{708DC102-3B01-476B-90C5-0A45ADC7600F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{708DC102-3B01-476B-90C5-0A45ADC7600F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{708DC102-3B01-476B-90C5-0A45ADC7600F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02784315-DDB4-4DDB-A534-26CC8A235315}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02784315-DDB4-4DDB-A534-26CC8A235315}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02784315-DDB4-4DDB-A534-26CC8A235315}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02784315-DDB4-4DDB-A534-26CC8A235315}.Release|Any CPU.Build.0 = Release|Any CPU
+		{250A3E22-6693-46C0-9009-C447E985BDB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{250A3E22-6693-46C0-9009-C447E985BDB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{250A3E22-6693-46C0-9009-C447E985BDB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{250A3E22-6693-46C0-9009-C447E985BDB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87EA682B-31F6-4E70-85CC-4A1FA314C5C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87EA682B-31F6-4E70-85CC-4A1FA314C5C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87EA682B-31F6-4E70-85CC-4A1FA314C5C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87EA682B-31F6-4E70-85CC-4A1FA314C5C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B164BBBD-8569-4435-B39C-0D914E41AB73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B164BBBD-8569-4435-B39C-0D914E41AB73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B164BBBD-8569-4435-B39C-0D914E41AB73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B164BBBD-8569-4435-B39C-0D914E41AB73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00353A1F-CBD1-4422-BF86-57CDEDD1772F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00353A1F-CBD1-4422-BF86-57CDEDD1772F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00353A1F-CBD1-4422-BF86-57CDEDD1772F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00353A1F-CBD1-4422-BF86-57CDEDD1772F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1B078F1-707A-4DD7-8F49-65AFA19CB52C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1B078F1-707A-4DD7-8F49-65AFA19CB52C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1B078F1-707A-4DD7-8F49-65AFA19CB52C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1B078F1-707A-4DD7-8F49-65AFA19CB52C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{037A768A-9ECB-4B59-B134-2890249B16AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{037A768A-9ECB-4B59-B134-2890249B16AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{037A768A-9ECB-4B59-B134-2890249B16AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{037A768A-9ECB-4B59-B134-2890249B16AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{708DC102-3B01-476B-90C5-0A45ADC7600F} = {31C4E5AD-B9AF-49C5-848D-75B958E40EDC}
+		{02784315-DDB4-4DDB-A534-26CC8A235315} = {B5D8264F-0996-4828-8209-73DA66049910}
+		{250A3E22-6693-46C0-9009-C447E985BDB3} = {25DC8366-64C9-4A9A-AF68-2F00024ADEC8}
+		{87EA682B-31F6-4E70-85CC-4A1FA314C5C7} = {25DC8366-64C9-4A9A-AF68-2F00024ADEC8}
+		{B164BBBD-8569-4435-B39C-0D914E41AB73} = {25DC8366-64C9-4A9A-AF68-2F00024ADEC8}
+		{00353A1F-CBD1-4422-BF86-57CDEDD1772F} = {25DC8366-64C9-4A9A-AF68-2F00024ADEC8}
+		{D1B078F1-707A-4DD7-8F49-65AFA19CB52C} = {25DC8366-64C9-4A9A-AF68-2F00024ADEC8}
+		{037A768A-9ECB-4B59-B134-2890249B16AF} = {CC79C2C2-75CB-457C-839A-67EBB85A8EEB}
+	EndGlobalSection
+EndGlobal
