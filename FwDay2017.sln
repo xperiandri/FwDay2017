@@ -26,6 +26,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		ReadMe.md = ReadMe.md
 	EndProjectSection
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo3ApiExplorer", "Demo3ApiExplorer\Demo3ApiExplorer.csproj", "{742A1E2D-92AF-421F-8E08-C54B8C3C960B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -52,6 +54,10 @@ Global
 		{037A768A-9ECB-4B59-B134-2890249B16AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{037A768A-9ECB-4B59-B134-2890249B16AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{037A768A-9ECB-4B59-B134-2890249B16AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{742A1E2D-92AF-421F-8E08-C54B8C3C960B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{742A1E2D-92AF-421F-8E08-C54B8C3C960B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{742A1E2D-92AF-421F-8E08-C54B8C3C960B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{742A1E2D-92AF-421F-8E08-C54B8C3C960B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -62,5 +68,6 @@ Global
 		{250A3E22-6693-46C0-9009-C447E985BDB3} = {25DC8366-64C9-4A9A-AF68-2F00024ADEC8}
 		{D1B078F1-707A-4DD7-8F49-65AFA19CB52C} = {25DC8366-64C9-4A9A-AF68-2F00024ADEC8}
 		{037A768A-9ECB-4B59-B134-2890249B16AF} = {CC79C2C2-75CB-457C-839A-67EBB85A8EEB}
+		{742A1E2D-92AF-421F-8E08-C54B8C3C960B} = {25DC8366-64C9-4A9A-AF68-2F00024ADEC8}
 	EndGlobalSection
 EndGlobal
